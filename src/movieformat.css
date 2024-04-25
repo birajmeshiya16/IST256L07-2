@@ -1,0 +1,42 @@
+.movie {
+
+    border-style: solid;
+    border-radius: 4px;
+    padding: 10px;
+    padding-bottom: 15px;
+    margin: 5px;
+    background-color: lightgray;
+    height: 90%;
+
+}
+
+.title {
+
+    padding-left: 10px;
+    padding-top: 20px;
+
+}
+  
+.director {
+
+    color: darkgoldenrod;
+    font-size: 20px;
+
+}
+
+.stars {
+
+    font-size: 12px;
+    font-weight: 500;
+
+}
+
+.btn.btn-primary.btn-sm {
+
+    transform: translate(2px, -3px);
+    padding-bottom: 5px;
+    
+}
+  
+
+
